@@ -504,3 +504,65 @@ header nav ul li a {
     text-align: center;
     margin: 3px 0px 35px -70px;
 }
+
+
+/******** Design Sprint ********/
+
+#designsprint .image {
+    width: 30%;
+}
+
+#designsprint .image1 {
+    width: 80%;
+}
+
+#designsprint .image2 {
+    width: 50%;
+}
+
+#designsprint h1 {
+    background-color: cornflowerblue;
+    padding: 15px 15px 8px 15px;
+    text-align: center;
+    margin: 3px 0px 35px -70px;
+}
+
+#designsprint a {
+    color: black;
+    font-family: "Questrial";
+    font-size: 1.2rem;
+}
+
+#designsprint a:hover {
+    color: deepskyblue;
+}
+
+#designsprint ul {
+    margin: 0px 200px 0px -20px;
+}
+
+#designsprint {
+    background-color: lightblue;
+    margin: 0px 160px 50px 160px;
+}
+
+#designsprint .sectionwrapper {
+    padding: 78px 0px 70px 70px;
+}
+
+#designsprint .sectionwrapper1 {
+    padding: 78px 0px 70px 70px;
+    margin-top: -130px;
+}
+
+.Woman {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+}
+
+.forum {
+    flex-grow: 1;
+    flex-basis: 200px;
+    padding: 7px;
+}
