@@ -338,6 +338,28 @@ header nav ul li a {
     margin: 3px 0px 3px -70px;
 }
 
+@media only screen and (max-width:800px) {
+    #tittelsekvens {
+        margin: 0px 15px;
+    }
+}
+
+
+@media only screen and (max-width:800px) {
+    #video {
+        margin-left: -90px;
+        margin-right: 20px;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    #tittelsekvens h1 {
+        font-size: 1.8rem;
+        margin-right: 0px;
+    }
+}
+
+
 /******** Responsive ********/
 
 #responsiv .image {
