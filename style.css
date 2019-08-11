@@ -583,6 +583,29 @@ header nav ul li a {
     margin: 3px 0px 35px -70px;
 }
 
+@media only screen and (max-width:800px) {
+    #redesing1 {
+        margin: 0px 15px;
+    }
+}
+
+
+@media only screen and (max-width:800px) {
+    #redesing1 h1 {
+        font-size: 1.5rem;
+        margin-right: 0px;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    #redesing1 .image {
+        width: 100%;
+        margin-left: -35px;
+
+    }
+}
+
+
 /******** Redesign2 ********/
 
 #redesign2 .image {
