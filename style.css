@@ -282,6 +282,30 @@ header nav ul li a {
     margin: 35px 150px 20px 154px;
 }
 
+@media only screen and (max-width:800px) {
+    #om .sectionwrapper {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    #om .pic {
+        flex-basis: 240px;
+        margin-top: -90px;
+        margin-left: 65px;
+        margin-right: 20px;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    #video {
+        margin-left: -90px;
+        margin-right: 20px;
+    }
+}
+
+
 /******** Tittelsekvens ********/
 #responsiv .image {
     width: 80%;
