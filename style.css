@@ -605,7 +605,6 @@ header nav ul li a {
     }
 }
 
-
 /******** Redesign2 ********/
 
 #redesign2 .image {
@@ -650,6 +649,36 @@ header nav ul li a {
     padding: 15px 15px 8px 15px;
     text-align: center;
     margin: 3px 0px 35px -70px;
+}
+
+@media only screen and (max-width:800px) {
+    #redesign2 {
+        margin: 0px 15px;
+    }
+}
+
+
+@media only screen and (max-width:800px) {
+    #redesign2 h1 {
+        font-size: 1.5rem;
+        margin-right: 0px;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    #redesign2 .image {
+        width: 100%;
+        margin-left: -35px;
+
+    }
+}
+
+@media only screen and (max-width:800px) {
+    #redesign2 .image1 {
+        width: 105%;
+        margin-left: -45px;
+
+    }
 }
 
 
