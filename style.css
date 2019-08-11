@@ -1,0 +1,71 @@
+img {
+    width: 100%;
+}
+
+body {
+    background-color: black;
+}
+
+
+/******** Fonte ******/
+
+a {
+    color: deepskyblue;
+    font-family: "Questrial";
+    font-size: 1.7rem;
+}
+
+a:hover {
+    color: deepskyblue;
+}
+
+h1 {
+    font-size: 2rem;
+    color: black;
+    font-family: "Questrial";
+    margin-left: 1%;
+    height: 6vh;
+}
+
+h2 {
+    font-size: 1.8rem;
+    color: black;
+    font-family: "Questrial";
+}
+
+h3 {
+    font-size: 1rem;
+    color: black;
+    font-weight: bold;
+    font-family: "Questrial";
+}
+
+h4 {
+    font-size: 1rem;
+    color: black;
+    font-weight: bold;
+    font-family: "Questrial";
+}
+
+
+p {
+    font-size: 1.5rem;
+    color: black;
+    font-family: "Questrial";
+    line-height: 150%;
+}
+
+li {
+    font-size: 1.5rem;
+    color: black;
+    font-family: "Questrial";
+}
+
+h5 {
+    font-size: 1.1rem;
+    color: black;
+    font-family: "Questrial";
+    line-height: 150%;
+    margin: -18px 150px 0px 0px;
+    font-weight: normal;
+}
