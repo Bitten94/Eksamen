@@ -743,6 +743,52 @@ header nav ul li a {
     padding: 7px;
 }
 
+@media only screen and (max-width:800px) {
+    #designsprint {
+        margin: 0px 15px;
+    }
+}
+
+
+@media only screen and (max-width:800px) {
+    #designsprint h1 {
+        font-size: 1.5rem;
+        margin-right: 0px;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    #designsprint .image {
+        width: 70%;
+        margin-left: -35px;
+
+    }
+}
+
+@media only screen and (max-width:800px) {
+    #designsprint .image1 {
+        width: 105%;
+        margin-left: -45px;
+
+    }
+}
+
+@media only screen and (max-width:800px) {
+    #designsprint .image2 {
+        width: 105%;
+        margin-left: -45px;
+
+    }
+}
+
+@media only screen and (max-width:800px) {
+    #designsprint .image3 {
+        width: 105%;
+        margin-left: -45px;
+
+    }
+}
+
 
 /******** Prototype ********/
 
