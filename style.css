@@ -226,3 +226,35 @@ header nav ul li a {
     transform: translate(-50%, -50%);
     text-align: center;
 }
+
+/******** Tittelsekvens ********/
+#responsiv .image {
+    width: 80%;
+}
+
+#tittelsekvens a {
+    color: black;
+    font-family: "Questrial";
+    font-size: 1.2rem;
+}
+
+#tittelsekvens a:hover {
+    color: deepskyblue;
+}
+
+
+#tittelsekvens {
+    background-color: lightblue;
+    margin: 0px 160px 50px 160px;
+}
+
+#tittelsekvens .sectionwrapper {
+    padding: 78px 0px 70px 70px;
+}
+
+#tittelsekvens h1 {
+    background-color: cornflowerblue;
+    padding: 15px 15px 8px 15px;
+    text-align: center;
+    margin: 3px 0px 3px -70px;
+}
