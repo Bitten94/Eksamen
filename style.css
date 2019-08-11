@@ -419,3 +419,42 @@ header nav ul li a {
     text-align: center;
     margin: 3px 0px 35px -70px;
 }
+
+/******** Redesign1 ********/
+
+
+#redesing1 .image {
+    width: 80%;
+}
+
+#redesing1 a {
+    color: black;
+    font-family: "Questrial";
+    font-size: 1.2rem;
+}
+
+#redesing1 a:hover {
+    color: deepskyblue;
+}
+
+
+#redesing1 {
+    background-color: lightblue;
+    margin: 0px 160px 50px 160px;
+}
+
+#redesing1 .sectionwrapper {
+    padding: 78px 0px 70px 70px;
+}
+
+#redesing1 .sectionwrapper1 {
+    padding: 78px 0px 70px 70px;
+    margin-top: -130px;
+}
+
+#redesing1 h1 {
+    background-color: cornflowerblue;
+    padding: 15px 15px 8px 15px;
+    text-align: center;
+    margin: 3px 0px 35px -70px;
+}
