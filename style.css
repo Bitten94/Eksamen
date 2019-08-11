@@ -304,3 +304,41 @@ header nav ul li a {
     text-align: center;
     margin: 3px 0px 3px -70px;
 }
+
+/******** Responsive ********/
+
+#responsiv .image {
+    width: 80%;
+}
+
+#responsiv a {
+    color: black;
+    font-family: "Questrial";
+    font-size: 1.2rem;
+}
+
+#responsiv a:hover {
+    color: deepskyblue;
+}
+
+
+#responsiv {
+    background-color: lightblue;
+    margin: 0px 160px 50px 160px;
+}
+
+#responsiv .sectionwrapper {
+    padding: 78px 0px 70px 70px;
+}
+
+#responsiv .sectionwrapper1 {
+    padding: 78px 0px 70px 70px;
+    margin-top: -130px;
+}
+
+#responsiv h1 {
+    background-color: cornflowerblue;
+    padding: 15px 15px 8px 15px;
+    text-align: center;
+    margin: 3px 0px 35px -70px;
+}
